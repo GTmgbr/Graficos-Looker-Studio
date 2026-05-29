@@ -7,7 +7,7 @@ Os dados que estavam em planilhas Excel, foram formatados corretamente e transcr
 
 A proposta veio da necessidade de migração dos antigos dashboards construídos através da plataforma paga do Infogram para uma nova plataforma que fosse gratuita e de fácil manutenção.
 
-Os gráficos foram configurados manualmente por mim, tentando seguir fielmente o design antigo, incluindo disposição das cores, métricas, dimensões, filtros, etc.
+Os gráficos foram configurados manualmente por mim, tentando seguir fielmente o design antigo, incluindo: disposição das cores, métricas, dimensões, filtros, etc.
 
 A ideia é que estes dashboards fiquem públicos e possam ser acessados por qualquer um. Além disso, podem ser utilizados em seções de outros sites ou aplicações, através de um link embed.
 
