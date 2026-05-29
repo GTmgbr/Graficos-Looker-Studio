@@ -3,11 +3,11 @@
 
 Protótipos de Dashboards para o novo site da Embrapa Gado de Leite. Os gráficos foram construídos na plataforma do Google Looker Studio.
 
-Os dados que estavam em planilhas Excel, foram formatados corretamente e transcritos por mim em planilhas do Google Sheet. 
+Os dados que estavam em planilhas Excel, foram formatados corretamente e transcritos por mim em novas planilhas do Google Sheet. 
 
-A proposta veio da necessidade de migração dos antigos dashboards construídos através da plataforma paga do Infogram para uma nova plataforma que fosse gratuita.
+A proposta veio da necessidade de migração dos antigos dashboards construídos através da plataforma paga do Infogram para uma nova plataforma que fosse gratuita e de fácil manutenção.
 
-Os gráficos foram configurados manualmente por mim, tentando seguir fielmente o design antigo. 
+Os gráficos foram configurados manualmente por mim, tentando seguir fielmente o design antigo, incluindo disposição das cores, métricas, dimensões, filtros, etc.
 
 A ideia é que estes dashboards fiquem públicos e possam ser acessados por qualquer um. Além disso, podem ser utilizados em seções de outros sites ou aplicações, através de um link embed.
 
