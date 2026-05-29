@@ -1,5 +1,5 @@
-📊
-## Google Looker Studio
+
+## Google Looker Studio 📊
 
 Protótipos de Dashboards para o novo site da Embrapa Gado de Leite. Os gráficos foram construídos na plataforma do Google Looker Studio.
 
