@@ -22,3 +22,7 @@ https://datastudio.google.com/s/n4OkV_9vjUU
 
 ![Image](https://github.com/user-attachments/assets/34e49461-3a44-48f8-87cf-76c028e2654c)
 
+<br>
+
+![Image](https://github.com/user-attachments/assets/65e17920-eff5-4a88-9c7d-9fc0545bc045)
+
