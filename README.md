@@ -9,8 +9,6 @@ A proposta veio da necessidade de migração dos antigos dashboards construídos
 
 Os gráficos foram configurados manualmente por mim, tentando seguir fielmente o design antigo, incluindo: disposição das cores, métricas, dimensões, filtros, etc.
 
-<iframe width="600" height="318" src="https://datastudio.google.com/embed/reporting/2c90d962-b2c9-48cd-b649-83c405620f74/page/8WlzF" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
-
 A ideia é que estes dashboards fiquem públicos e possam ser acessados por qualquer um. Além disso, podem ser utilizados em seções de outros sites ou aplicações, através de um link embed.
 
 Links para os dashboards:
