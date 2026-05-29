@@ -5,7 +5,7 @@ Protótipos de Dashboards para o novo site da Embrapa Gado de Leite. Os gráfico
 
 Os dados que estavam em planilhas Excel, foram formatados corretamente e transcritos por mim em novas planilhas do Google Sheet. 
 
-A proposta veio da necessidade de migração dos antigos dashboards construídos através da plataforma paga do Infogram para uma nova plataforma que fosse gratuita e de fácil manutenção.
+A proposta veio da necessidade de migração dos antigos dashboards construídos através da plataforma paga do Infogram para uma nova plataforma que fosse gratuita, interativa e de fácil manutenção.
 
 Os gráficos foram configurados manualmente por mim, tentando seguir fielmente o design antigo, incluindo: disposição das cores, métricas, dimensões, filtros, etc.
 
